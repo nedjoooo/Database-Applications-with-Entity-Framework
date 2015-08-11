@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON.Models", "JSON.Models\JSON.Models.csproj", "{C1A7D55E-A945-490D-96F5-8236925C365F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON.Data", "JSON.Data\JSON.Data.csproj", "{CEBE6EFF-02A3-4CB5-9453-5CBB2169D2FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JSON.ConsoleClient", "JSON.ConsoleClient\JSON.ConsoleClient.csproj", "{ECBAA94B-D305-4DE5-BA8C-A0C4D196E14E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C1A7D55E-A945-490D-96F5-8236925C365F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1A7D55E-A945-490D-96F5-8236925C365F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1A7D55E-A945-490D-96F5-8236925C365F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1A7D55E-A945-490D-96F5-8236925C365F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEBE6EFF-02A3-4CB5-9453-5CBB2169D2FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBE6EFF-02A3-4CB5-9453-5CBB2169D2FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBE6EFF-02A3-4CB5-9453-5CBB2169D2FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBE6EFF-02A3-4CB5-9453-5CBB2169D2FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ECBAA94B-D305-4DE5-BA8C-A0C4D196E14E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECBAA94B-D305-4DE5-BA8C-A0C4D196E14E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECBAA94B-D305-4DE5-BA8C-A0C4D196E14E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECBAA94B-D305-4DE5-BA8C-A0C4D196E14E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. EF-Mappings", "EF-Mappings\1. EF-Mappings.csproj", "{E23EE0CB-7E1C-447A-8447-752522B1E363}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Export-Rivers-as-Json", "2.Export-Rivers-as-Json\2. Export-Rivers-as-Json.csproj", "{8D5C8B35-FC95-4D59-AA6F-61E33CD5605A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Export-Monasteries-as-Xml", "Export-Monasteries-as-Xml\3. Export-Monasteries-as-Xml.csproj", "{E7BCF2E8-883A-413B-AC3D-D3B2B75B80A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Import-Rivers-from-XML", "Import-Rivers-from-XML\4. Import-Rivers-from-XML.csproj", "{D568F64F-E056-4585-B834-917725DD882D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5. Rivers-By-Country", "Rivers-By-Country\5. Rivers-By-Country.csproj", "{9856DC2E-73FF-4766-A279-305A60527493}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6. Mountains-Code-First", "Mountains-Code-First\6. Mountains-Code-First.csproj", "{B914283B-AEC8-47A9-AB6C-A8D4A19F2837}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "7. Import-Mountains", "Import-Mountains\7. Import-Mountains.csproj", "{C6EC2C88-7148-41A5-9D4B-485BCF84AB96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E23EE0CB-7E1C-447A-8447-752522B1E363}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E23EE0CB-7E1C-447A-8447-752522B1E363}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E23EE0CB-7E1C-447A-8447-752522B1E363}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E23EE0CB-7E1C-447A-8447-752522B1E363}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D5C8B35-FC95-4D59-AA6F-61E33CD5605A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D5C8B35-FC95-4D59-AA6F-61E33CD5605A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D5C8B35-FC95-4D59-AA6F-61E33CD5605A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D5C8B35-FC95-4D59-AA6F-61E33CD5605A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7BCF2E8-883A-413B-AC3D-D3B2B75B80A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7BCF2E8-883A-413B-AC3D-D3B2B75B80A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7BCF2E8-883A-413B-AC3D-D3B2B75B80A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7BCF2E8-883A-413B-AC3D-D3B2B75B80A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D568F64F-E056-4585-B834-917725DD882D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D568F64F-E056-4585-B834-917725DD882D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D568F64F-E056-4585-B834-917725DD882D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D568F64F-E056-4585-B834-917725DD882D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9856DC2E-73FF-4766-A279-305A60527493}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9856DC2E-73FF-4766-A279-305A60527493}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9856DC2E-73FF-4766-A279-305A60527493}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9856DC2E-73FF-4766-A279-305A60527493}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B914283B-AEC8-47A9-AB6C-A8D4A19F2837}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B914283B-AEC8-47A9-AB6C-A8D4A19F2837}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B914283B-AEC8-47A9-AB6C-A8D4A19F2837}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B914283B-AEC8-47A9-AB6C-A8D4A19F2837}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6EC2C88-7148-41A5-9D4B-485BCF84AB96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6EC2C88-7148-41A5-9D4B-485BCF84AB96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6EC2C88-7148-41A5-9D4B-485BCF84AB96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6EC2C88-7148-41A5-9D4B-485BCF84AB96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

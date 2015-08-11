@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1. EFMappings", "EFMappings\1. EFMappings.csproj", "{AC4C3A85-5949-4C8A-86A4-633DD847A87A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2. Export-the-Leagues-and-Teams-as-JSON", "Export-the-Leagues-and-Teams-as-JSON\2. Export-the-Leagues-and-Teams-as-JSON.csproj", "{C6573903-5108-4074-9235-9D59A1DED202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3. Export-International-Matches-as-XML", "Export-International-Matches-as-XML\3. Export-International-Matches-as-XML.csproj", "{043D1A1E-8FD6-4988-8400-5C00AC78B6F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4. Import-Leagues-and-Teams-from-XML", "Import-Leagues-and-Teams-from-XML\4. Import-Leagues-and-Teams-from-XML.csproj", "{41E347F1-C28A-4104-8B6E-D049DBBD341F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC4C3A85-5949-4C8A-86A4-633DD847A87A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC4C3A85-5949-4C8A-86A4-633DD847A87A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC4C3A85-5949-4C8A-86A4-633DD847A87A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC4C3A85-5949-4C8A-86A4-633DD847A87A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C6573903-5108-4074-9235-9D59A1DED202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C6573903-5108-4074-9235-9D59A1DED202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C6573903-5108-4074-9235-9D59A1DED202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C6573903-5108-4074-9235-9D59A1DED202}.Release|Any CPU.Build.0 = Release|Any CPU
+		{043D1A1E-8FD6-4988-8400-5C00AC78B6F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{043D1A1E-8FD6-4988-8400-5C00AC78B6F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{043D1A1E-8FD6-4988-8400-5C00AC78B6F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{043D1A1E-8FD6-4988-8400-5C00AC78B6F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E347F1-C28A-4104-8B6E-D049DBBD341F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E347F1-C28A-4104-8B6E-D049DBBD341F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E347F1-C28A-4104-8B6E-D049DBBD341F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E347F1-C28A-4104-8B6E-D049DBBD341F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
